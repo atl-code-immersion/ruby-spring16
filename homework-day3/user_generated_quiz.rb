@@ -64,7 +64,3 @@ else
 
 	puts "You got a score of #{score} out of #{num}!"
 end
-
-
-
-
